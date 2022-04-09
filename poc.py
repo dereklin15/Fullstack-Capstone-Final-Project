@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import argparse
+import argparse #allows for a user friendly implemenation of accepting arguments at runtime
 from colorama import Fore, init
 import subprocess
 import threading
