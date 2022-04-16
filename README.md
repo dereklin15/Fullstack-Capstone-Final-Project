@@ -5,7 +5,7 @@ Final Capstone Project for California State University East Bay powered by Fulls
 Topic: log4j/log4shell (Analyzing and Executing Github Kozer's log4j-shell-poc repository)
 
 
-For the project's references and documents, access current google drive
+For the project's references and documents, access current google drive. There are also added to the repository as well.
 https://drive.google.com/drive/folders/1eivoOHvLUBzfcB3B0lHXk_P5C9R1pJq3?usp=sharing
 
 
