@@ -2,7 +2,7 @@
 
 Final Capstone Project for California State University East Bay powered by Fullstack Academy Cybersecurity course (2110-ftb-pt-cyb-pt) 
 
-Topic: log4j/log4shell (Analyzing and Executing Github Kozer's log4j-shell-poc repository)
+Topic: log4j/log4shell (CVE 2021-22448) (Analyzing and Executing Github Kozer's log4j-shell-poc repository)
 
 Project Presentation Video: https://youtu.be/x-2RprzeihE
 
